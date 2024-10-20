@@ -3,7 +3,7 @@ module e2etests
 go 1.21.6
 
 require (
-	github.com/docker/docker v25.0.2+incompatible
+	github.com/docker/docker v25.0.6+incompatible
 	github.com/docker/go-connections v0.5.0
 )
 
